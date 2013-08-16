@@ -1,5 +1,14 @@
 class MoviesController < ApplicationController
 
+  def similar
+     movie = Movie.find(params[:id])
+     if movie.director.blank? then
+       flash[:notice] = %Q{'#{movie.title}' has no director information}
+       redirect_to movies_path and return
+     end
+       @movies = Movie.get_similar(params[:id])
+  end
+
   def show
     id = params[:id] # retrieve movie ID from URI route
     @movie = Movie.find(id) # look up movie by unique ID
@@ -16,11 +25,11 @@ class MoviesController < ApplicationController
     end
     @all_ratings = Movie.all_ratings
     @selected_ratings = params[:ratings] || session[:ratings] || {}
-    
+
     if @selected_ratings == {}
       @selected_ratings = Hash[@all_ratings.map {|rating| [rating, rating]}]
     end
-    
+
     if params[:sort] != session[:sort]
       session[:sort] = sort
       flash.keep
