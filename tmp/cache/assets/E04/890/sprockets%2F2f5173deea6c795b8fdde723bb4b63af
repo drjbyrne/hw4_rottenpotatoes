@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1376508682.406214:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1377087070.2478058:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%fb60d22a38820b9dbe1d35952d3df2c4I"logical_path;
+F"%906fffd13317c1c0701c64547e8b8278I"logical_path;
 FI"application.js;
 TI"pathname;
 FI"0$root/app/assets/javascripts/application.js;
@@ -9,7 +9,7 @@ TI"content_type;
 FI"application/javascript;
 FI"
 mtime;
-FI"2013-08-13T11:01:36+01:00;
+FI"2013-08-13T10:59:16+01:00;
 FI"	body;
 FI"î// This is a manifest file that'll be compiled into including all the files listed below.
 // Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
@@ -20,8 +20,8 @@ FI"î// This is a manifest file that'll be compiled into including all the file
 ;
 ;
 FI"asset_paths;
-F[I"h/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js;
-TI"l/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.js;
+F[I"g/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-3.0.4/vendor/assets/javascripts/jquery.js;
+TI"k/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-3.0.4/vendor/assets/javascripts/jquery_ujs.js;
 TI"0$root/app/assets/javascripts/application.js;
 TI"dependency_paths;
 F[	{I"	path;
@@ -31,26 +31,26 @@ mtime;
 FIu:	Time©]Äˇ¸Ì
 :@_zoneI"BST;
 T:nano_numi:nano_deni:submicro"vê:offsetiI"hexdigest;
-F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
+F"%0f1cfbc0bc3803a9dbf1a44d1da6ff92{I"	path;
 FI"!$root/app/assets/javascripts;
 TI"
 mtime;
 FIu;©]Äˇ¸Ì
 ;I"BST;
 T;i;i;"vê;iI"hexdigest;
-F"%d4f88971c1988e00732efc3b47e84f9d{I"	path;
-FI"h/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js;
+F"%9fc91fc75938cd11a57805188f2a2260{I"	path;
+FI"g/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-3.0.4/vendor/assets/javascripts/jquery.js;
 TI"
 mtime;
-FIu;™]Ä£D
+FIu;.]Ä≠up.
 ;I"BST;
-T;iÈ;i;"tP;iI"hexdigest;
-F"%683679b346b30943f8589b640966202a{I"	path;
-FI"l/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.js;
+T;iU;i;"Yp;iI"hexdigest;
+F"%f11cf60ec044cbd1d4dab2286872d640{I"	path;
+FI"k/home/ubuntu/.rvm/gems/ruby-1.9.3-p448/gems/jquery-rails-3.0.4/vendor/assets/javascripts/jquery_ujs.js;
 TI"
 mtime;
-FIu;™]Ä£D
+FIu;.]Ä≠up.
 ;I"BST;
-T;iÈ;i;"tP;iI"hexdigest;
-F"%2caafa0c2617f9985c1a0b07ebaefadfI"_version;
-F"%46dde6621c301f4928e3b34efee9e3b5
+T;iU;i;"Yp;iI"hexdigest;
+F"%f0fce1eca801ee49a59c039ec30182feI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c
