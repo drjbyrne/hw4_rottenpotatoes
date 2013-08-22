@@ -13,8 +13,8 @@
       "/home/ubuntu/rails-projects/hw4_rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
-        1,
-        0,
+        null,
+        null,
         null,
         null
       ],
@@ -24,10 +24,12 @@
         1,
         2,
         2,
+        2,
+        2,
+        null,
         1,
         1,
         null,
-        1,
         null,
         null,
         1,
@@ -102,13 +104,26 @@
         1,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         1,
+        2,
+        2,
+        2,
         1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1377090734
+    "timestamp": 1377185235
   }
 }
